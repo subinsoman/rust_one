@@ -1,0 +1,5 @@
+server:
+  address: "127.0.0.1"
+  port: 8080
+database:
+  url: "mysql://username:password@localhost:3306/my_database"
